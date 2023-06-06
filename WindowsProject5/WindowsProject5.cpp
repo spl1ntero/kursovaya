@@ -36,7 +36,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
     }
 
     // Create the window
-    g_hWindow = CreateWindowEx(0, g_szClassName, "Blood Sugar Checker", WS_OVERLAPPEDWINDOW, CW_USEDEFAULT, CW_USEDEFAULT, g_nWidth, g_nHeight, NULL, NULL, hInstance, NULL);
+    g_hWindow = CreateWindowEx(0, g_szClassName, "Hemoglobin Checker", WS_OVERLAPPEDWINDOW, CW_USEDEFAULT, CW_USEDEFAULT, g_nWidth, g_nHeight, NULL, NULL, hInstance, NULL);
     if (g_hWindow == NULL) {
         MessageBox(NULL, "Window creation failed.", "Error", MB_ICONERROR | MB_OK);
         return 0;
