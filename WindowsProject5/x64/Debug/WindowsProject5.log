@@ -1,4 +1,0 @@
-﻿  WindowsProject5.cpp
-C:\Users\n1x17\source\repos\WindowsProject5\WindowsProject5.cpp(116,23): warning C4244: return: преобразование "LRESULT" в "int", возможна потеря данных
-C:\Users\n1x17\source\repos\WindowsProject5\WindowsProject5.cpp(130,16): warning C4244: return: преобразование "double" в "float", возможна потеря данных
-  WindowsProject5.vcxproj -> C:\Users\n1x17\source\repos\WindowsProject5\x64\Debug\WindowsProject5.exe
